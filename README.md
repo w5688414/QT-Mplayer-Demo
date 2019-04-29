@@ -11,4 +11,4 @@ it supports .mp4,.avi,mkv,rmvb files
 
 ## show
 
-![avatar](https://github.com/w5688414/QT-Mplayer-Demo/qmplayer.jpg)
+![avatar](https://github.com/w5688414/QT-Mplayer-Demo/blob/master/qmplayer.jpg)
